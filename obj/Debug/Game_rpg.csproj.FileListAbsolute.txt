@@ -1,0 +1,8 @@
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\bin\Debug\Game_rpg.exe.config
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\bin\Debug\Game_rpg.exe
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\bin\Debug\Game_rpg.pdb
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\obj\Debug\Game_rpg.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\obj\Debug\Game_rpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\obj\Debug\Game_rpg.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\obj\Debug\Game_rpg.exe
+C:\Users\ferna\source\repos\Game_rpg\Game_rpg\obj\Debug\Game_rpg.pdb
